@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello! I'm Ardan Ramadhan 👋
 
 <!--
 **Ardan2008/Ardan2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ardan Ramadhan](img/ARDAN%20RAMADHAN.png)
