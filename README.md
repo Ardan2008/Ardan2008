@@ -66,7 +66,6 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Ardan2008&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 #### 🕹️ Play Games With Me
-
 <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/snake.svg" alt="Snake contribution animation" />
 
 ---
