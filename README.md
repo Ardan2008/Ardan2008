@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ardan Ramadhan](img/ARDAN%20RAMADHAN.png)
+![Ardan Ramadhan](img/ARDAN.png)
