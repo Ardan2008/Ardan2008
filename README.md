@@ -66,7 +66,13 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Ardan2008&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 #### 🕹️ Play Games With Me
-<img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/snake.svg" alt="Snake contribution animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph.svg">
+</picture>
+
+<!-- <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/snake.svg" alt="Snake contribution animation" /> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ardan2008&icon=0&color=0)](https://visitcount.itsvg.in)
