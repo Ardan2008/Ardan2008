@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=light)](https://skillicons.dev) -->
 
 #### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ardan2008&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Ardan2008&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 #### 🏆 GitHub Trophies
