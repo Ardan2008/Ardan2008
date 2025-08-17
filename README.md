@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <hr>
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=light)](https://skillicons.dev) -->
 
-<h2 text-underline="none">🔥 My Stats:</h2>
+<h2>🔥 My Stats:</h2>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ardan2008&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
   <br />
