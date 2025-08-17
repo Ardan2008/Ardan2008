@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <h1><p><strong>Hello! I'm Ardan Ramadhan 👋</strong></h1><br>
   </p>
 </div>
+<hr>
 <h2>👨‍💻 About Me:</h2>
 <!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
@@ -58,7 +59,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo" />
   </a>
 </div>
-
+<hr>
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=light)](https://skillicons.dev) -->
 
 <h2>🔥 My Stats:</h2>
@@ -77,7 +78,7 @@ Here are some ideas to get you started:
 <h2>🔝 Top Contributed Repo</h2>
 <img src="https://github-contributor-stats.vercel.app/api?username=Ardan2008&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repo Stats">
 </div> -->
-
+<hr>
 <h2>🕹️ Let's Play Game</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman contribution graph dark"/>
