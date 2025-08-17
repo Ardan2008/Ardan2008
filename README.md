@@ -27,11 +27,9 @@ Here are some ideas to get you started:
 ![Ardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardan2008&show_icons=true&theme=radical) -->
 
 <div align="center">
-  <h2><p><strong>Hello! I'm Ardan Ramadhan 👋</strong></h2><br>
+  <h1><p><strong>Hello! I'm Ardan Ramadhan 👋</strong></h1><br>
   </p>
 </div>
-<hr>
-
 <h2>👨‍💻 About Me:</h2>
 <!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
