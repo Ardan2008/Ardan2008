@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 </div>
 <hr>
 <h2>👨‍💻 About Me:</h2>
+</hr>
 <!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" style="margin-left: 10px;" />
@@ -63,6 +64,7 @@ Here are some ideas to get you started:
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=light)](https://skillicons.dev) -->
 
 <h2>🔥 My Stats:</h2>
+</hr>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ardan2008&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
   <br />
@@ -80,6 +82,7 @@ Here are some ideas to get you started:
 </div> -->
 <hr>
 <h2>🕹️ Let's Play Game</h2>
+</hr>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman contribution graph dark"/>
 </p>
