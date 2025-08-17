@@ -56,9 +56,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ardan2008&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150"/>
+</div>
+<br>
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ardan2008.Ardan2008&left_color=darkslateblue&right_color=royalblue&left_text=visitors" />
 </div>
 
 <!-- #### 🏆 GitHub Trophies
