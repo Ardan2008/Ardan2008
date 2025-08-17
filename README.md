@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <hr>
 
 <h2>👨‍💻 About Me:</h2>
-<div align="center">
+<!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" style="margin-left: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" style="margin-left: 10px;" />
@@ -41,14 +41,20 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache Logo" style="margin-left: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL Logo" style="margin-left: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div> -->
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,mysql,laravel" alt="My Skills" />
+  </a>
 </div>
 
 <div align="center">
   <a href="https://youtube.com/@yoo_selen?si=MO8DJ-rBaHxJCfr-" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo" />
+    <img src="https://skillicons.dev/icons?i=youtube" alt="My Skills" />
   </a>
   <a href="https://www.instagram.com/codeofardan?igsh=MWszbnR4eXk5dHF6NQ==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="My Skills" />
   </a>
   <a href="https://www.facebook.com/share/18m5uES7Tc/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo" />
