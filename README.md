@@ -82,9 +82,10 @@ Here are some ideas to get you started:
 
 ### 🎮 Let's Play Game
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman contribution graph dark"/>
-</p>
+</p> -->
+<img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/snake.svg" alt="Snake animation" />
 
 <!-- <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/snake.svg" alt="Snake contribution animation" /> -->
 
