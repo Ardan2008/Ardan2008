@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 <h2>🕹️ Let's Play Game</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman contribution graph dark" />
+  <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman contribution graph dark"/>
 </p>
 
 <!-- <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/snake.svg" alt="Snake contribution animation" /> -->
