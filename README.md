@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Ardan Ramadhan](img/ARDAN.png)
 
-<marquee><h1 align="center">Hello! I'm Ardan Ramadhan 👋</h1></marquee>
+<h1 align="center">Hello! I'm Ardan Ramadhan 👋</h1>
 
 ---
 
