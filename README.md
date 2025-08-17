@@ -47,6 +47,9 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/share/18m5uES7Tc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
+  <a href="https://www.tiktok.com/@yoo_selen?_t=ZS-8yUN6GOFctW&_r=1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=tiktok&logo=tiktok&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"  />
+  </a>
 </div>
 
 ---
