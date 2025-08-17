@@ -69,8 +69,10 @@ Here are some ideas to get you started:
 <!-- #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ardan2008&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
+<div align="center">
 <h2>🔝 Top Contributed Repo</h2>
 <img src="https://github-contributor-stats.vercel.app/api?username=Ardan2008&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repo Stats">
+</div>
 
 <h2>🕹️ Play Games With Me</h2>
 <p align="center">
