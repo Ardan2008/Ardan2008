@@ -17,31 +17,19 @@ Here are some ideas to get you started:
 
 ![Ardan Ramadhan](img/ARDAN.png)
 
-<!-- ##### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php&theme=light)](https://skillicons.dev)
+<h1 align="center">Hello! I'm Ardan Ramadhan 👋</h1>
 
-##### Connect with me
-[![https://www.instagram.com/codeofardan?igsh=MWszbnR4eXk5dHF6NQ==](https://skillicons.dev/icons?i=instagram&theme=light)](https://skillicons.dev)
+---
 
-##### My Github Stats
-![Ardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardan2008&show_icons=true&theme=radical) -->
+### 👨‍💻 About Me
 
-<div align="center">
-  <h1><p><strong>Hello! I'm Ardan Ramadhan 👋</strong></h1><br>
-  </p>
-</div>
-<hr>
-<h2>👨‍💻 About Me:</h2>
-</hr>
-<!-- <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" style="margin-left: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" style="margin-left: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP Logo" style="margin-left: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache Logo" style="margin-left: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL Logo" style="margin-left: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div> -->
+<p align="center">
+  Hello I'm Ardan Ramadhan.<br>
+  I'm a Software Engineering student at SMKN 1 Purwosari with a strong passion for building modern, user-friendly web applications. I enjoy turning real-world problems into smart, scalable solutions through clean and efficient code.<br><br>
+  <strong>Together, we build more than just code — we build experiences.</strong> 💻🚀
+</p>
+
+##
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -51,7 +39,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://youtube.com/@yoo_selen?si=MO8DJ-rBaHxJCfr-" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="My Skills" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo" />
   </a>
   <a href="https://www.instagram.com/codeofardan?igsh=MWszbnR4eXk5dHF6NQ==" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="My Skills" />
@@ -60,11 +48,11 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo" />
   </a>
 </div>
-<hr>
-<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=light)](https://skillicons.dev) -->
 
-<h2>🔥 My Stats:</h2>
-</hr>
+---
+
+### 🔥My Stats
+
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ardan2008&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
   <br />
@@ -80,9 +68,11 @@ Here are some ideas to get you started:
 <h2>🔝 Top Contributed Repo</h2>
 <img src="https://github-contributor-stats.vercel.app/api?username=Ardan2008&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repo Stats">
 </div> -->
-<hr>
-<h2>🕹️ Let's Play Game</h2>
-</hr>
+
+---
+
+### 🕹️ Let's Play Game
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman contribution graph dark"/>
 </p>
