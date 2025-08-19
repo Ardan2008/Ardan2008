@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" border="true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" border="true" height="150"/>
 </div>
-<div style="text-align: right;">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ardan2008.Ardan2008&left_color=darkslateblue&right_color=royalblue&left_text=visitors" />
 </div>
 
