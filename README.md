@@ -77,15 +77,13 @@ Here are some ideas to get you started:
 <img src="https://github-contributor-stats.vercel.app/api?username=Ardan2008&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repo Stats">
 </div> -->
 
---- 
+---
 
-### 🎮 Let's Play Game 
+### 🎮 Let's Play Game
 
 <!-- ![pacman contribution graph](https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph.svg) -->
 
-
 <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/snake.svg" alt="Snake contribution animation" />
-
 
 [![](https://visitcount.itsvg.in/api?id=Ardan2008&icon=0&color=0)](https://visitcount.itsvg.in)
 
