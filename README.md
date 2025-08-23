@@ -83,7 +83,13 @@ Here are some ideas to get you started:
 
 ### 🎮 Let's Play Game
 
-![pacman contribution graph](https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph.svg">
+</picture>
+
+<!-- ![pacman contribution graph](https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph.svg) -->
 
 <!-- <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/snake.svg" alt="Snake contribution animation" /> -->
 
