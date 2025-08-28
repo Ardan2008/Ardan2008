@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   Hello I'm Ardan Ramadhan.<br>
-  I'm a Software Engineering student at <b>SMKN 1 PURWOSARI</b> with a <br>strong passion for building modern, user-friendly web applications. <br>I enjoy turning real-world problems into smart, scalable solutions through clean and efficient code.<br><br>
+  I'm a Junior Web Developper student at <b>SMKN 1 PURWOSARI</b> with a <br>strong passion for building modern, user-friendly web applications. <br>I enjoy turning real-world problems into smart, scalable solutions through clean and efficient code.<br><br>
   <strong>Together, we build more than just code — we build experiences.</strong> 💻🚀
 </p>
 
