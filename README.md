@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ardan Ramadhan](img/ARDAN.png)
+![Ardan Ramadhan](img/ar.png)
 
 <h1 align="center">Hello! I'm Ardan Ramadhan 👋</h1>
 
