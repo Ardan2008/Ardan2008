@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 
 <p align="center">
-  Hello, I'm Ardan Ramadhan Putra Hidayat.<br>
-  I'm a Junior Web Developer student at <b>SMK Negeri 1 Purwosari</b> with a strong passion for creating modern, user-friendly web applications.<br>
+  I'm a Junior Web Developer student at <b>SMK Negeri 1 Purwosari</b> with a strong passion for creating modern, user-friendly web applications.
   I enjoy transforming real-world problems into smart, scalable solutions with clean and efficient code.<br><br>
   <strong>Together, let's build more than just code — let's build meaningful experiences.</strong> 💻🚀
 </p>
