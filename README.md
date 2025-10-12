@@ -17,17 +17,19 @@ Here are some ideas to get you started:
 
 ![Ardan Ramadhan](img/ar.png)
 
-<h1 align="center">Hello! I'm Ardan Ramadhan 👋</h1>
+<h1 align="center">Hello! I'm Ardan Ramadhan Putra Hidayat👋</h1>
 
 ---
 
 ### 👨‍💻 About Me
 
 <p align="center">
-  Hello I'm Ardan Ramadhan.<br>
-  I'm a Junior Web Developper student at <b>SMKN 1 PURWOSARI</b> with a <br>strong passion for building modern, user-friendly web applications. <br>I enjoy turning real-world problems into smart, scalable solutions through clean and efficient code.<br><br>
-  <strong>Together, we build more than just code — we build experiences.</strong> 💻🚀
+  Hello, I'm Ardan Ramadhan Putra Hidayat.<br>
+  I'm a Junior Web Developer student at <b>SMK Negeri 1 Purwosari</b> with a strong passion for creating modern, user-friendly web applications.<br>
+  I enjoy transforming real-world problems into smart, scalable solutions with clean and efficient code.<br><br>
+  <strong>Together, let's build more than just code — let's build meaningful experiences.</strong> 💻🚀
 </p>
+
 
 ##
 
@@ -38,9 +40,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <a href="https://youtube.com/@yoo_selen?si=MO8DJ-rBaHxJCfr-" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=youtube&logo=youtube&label=&color=CB0404&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
   <a href="https://www.instagram.com/codeofardan?igsh=MWszbnR4eXk5dHF6NQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
