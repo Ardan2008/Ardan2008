@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ardan Ramadhan](img/ar.png)
+![Ardan Ramadhan](img/banner.png)
 
 <h1 align="center">Hello! I'm Ardan Ramadhan Putra Hidayat👋</h1>
 
