@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,mysql,laravel" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,mysql,laravel,react,tailwind" alt="My Skills" />
   </a>
 </div>
 
