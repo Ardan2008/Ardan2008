@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"     # setiap 12 jam, menit 0
   workflow_dispatch:
   push:
     branches:
@@ -10,6 +10,7 @@ on:
 
 jobs:
   generate:
+    name: generate-pacman
     permissions:
       contents: write
     runs-on: ubuntu-latest
