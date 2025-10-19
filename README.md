@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   <strong>Together, let's build more than just code — let's build meaningful experiences.</strong> 💻🚀
 </p>
 
-
 ##
 
 <div align="center">
@@ -82,10 +81,11 @@ Here are some ideas to get you started:
 ### 🎮 Let's Play Game
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Ardan2008/Ardan2008@output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Ardan2008/Ardan2008@output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://cdn.jsdelivr.net/gh/Ardan2008/Ardan2008@output/pacman-contribution-graph.svg">
 </picture>
+
 
 <!-- ![pacman contribution graph](https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph.svg) -->
 
