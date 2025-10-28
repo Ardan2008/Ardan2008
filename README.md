@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![Ardan Ramadhan](img/banner.png)
 
-<h1 align="center">Hello! I'm Ardan Ramadhan Putra Hidayat👋</h1>
+<h1 align="center">Hello! I'm Ardan Ramadhan Putra Hidayat <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></h1>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;SMK+Negeri+1+Purwosari+Student;Building+Modern+Web+Experiences" alt="Typing SVG" />
