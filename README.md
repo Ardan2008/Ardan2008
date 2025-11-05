@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 ![Ardan Ramadhan](img/banner.png)
 
-<h1 align="center">Hello! I'm Ardan Ramadhan Putra Hidayat <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Coding terminal animation"> <br/>
+Hello! I'm Ardan Ramadhan Putra Hidayat 
+<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
 alt="Waving hand animated gif"
 height="45" width="45"/></h1></h1>
-
-<div align="center">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Coding terminal animation">
-</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Web%20Developer;SMK%20Negeri%201%20Purwosari%20Student;Building%20Modern%20Web%20Experiences;&font=Pacifico&center=true&width=700&height=60&color=58a6ff&vCenter=true&size=35" />
