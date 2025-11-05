@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Ardan Ramadhan](img/banner.png)
 
 <h1 align="center">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Coding terminal animation"> <br/>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="70" alt="Coding terminal animation"> <br/>
 Hello! I'm Ardan Ramadhan Putra Hidayat 
 <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
 alt="Waving hand animated gif"
