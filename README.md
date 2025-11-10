@@ -40,7 +40,6 @@ height="45" width="45"/></h1></h1>
 ##
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="65" alt="Coding terminal animation"> <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,mysql,laravel,react,tailwind,scss,cpp" alt="My Skills" />
   </a>
