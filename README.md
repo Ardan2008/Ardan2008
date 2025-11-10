@@ -1,20 +1,3 @@
-<!-- ## Hello! I'm Ardan Ramadhan 👋 -->
-
-<!--
-**Ardan2008/Ardan2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![Ardan Ramadhan](img/banner.png)
 
 <h1 align="center">
@@ -55,8 +38,8 @@ height="45" width="45"/></h1></h1>
   <a href="https://www.linkedin.com/in/ardan-ramadhan-5a12a537b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.tiktok.com/@yoo_selen?_t=ZS-8yUN6GOFctW&_r=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=tiktok&logo=tiktok&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"  />
+  <a href="mailto:ramadhanardan69@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=EMAIL&logo=gmail&label=&color=E34133&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
 </div>
 
@@ -88,15 +71,6 @@ height="45" width="45"/></h1></h1>
 
 ### 🐍 Let's Play Game
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Ardan2008/Ardan2008@output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Ardan2008/Ardan2008@output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://cdn.jsdelivr.net/gh/Ardan2008/Ardan2008@output/pacman-contribution-graph.svg">
-</picture> -->
-
-
-<!-- ![pacman contribution graph](https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/pacman-contribution-graph.svg) -->
-
 <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/snake.svg" alt="Snake contribution animation" />
 
 ---
@@ -106,5 +80,3 @@ height="45" width="45"/></h1></h1>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=Ardan2008&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
