@@ -32,12 +32,15 @@ height="45" width="45"/></h1></h1>
   <a href="https://www.instagram.com/codeofardan?igsh=MWszbnR4eXk5dHF6NQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+
   <a href="https://www.facebook.com/share/18m5uES7Tc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
+  
   <a href="https://www.linkedin.com/in/ardan-ramadhan-5a12a537b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  
   <a href="mailto:ramadhanardan69@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=EMAIL&logo=gmail&label=&color=E34133&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
