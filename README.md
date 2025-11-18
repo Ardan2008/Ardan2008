@@ -27,10 +27,10 @@ height="45" width="45"/></h1></h1>
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,mysql,laravel,react,tailwind,scss,cpp" alt="My Skills" />
   </a>
 </div>
-
+<!-- 
 <div align="center">
-  <a href="https://www.instagram.com/codeofardan?igsh=MWszbnR4eXk5dHF6NQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.instagram.com/xrdsn404?igsh=MWszbnR4eXk5dHF6NQ==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
   </a>
 
   <a href="https://www.facebook.com/share/18m5uES7Tc/" target="_blank">
@@ -44,7 +44,7 @@ height="45" width="45"/></h1></h1>
   <a href="mailto:ramadhanardan69@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=EMAIL&logo=gmail&label=&color=E34133&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
-</div>
+</div> -->
 
 ---
 
