@@ -24,7 +24,7 @@ height="45" width="45"/></h1></h1>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,mysql,laravel,react,tailwind,scss,cpp" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,mysql,laravel,react,tailwind,scss,mongodb" alt="My Skills" />
   </a>
 </div>
 <!-- 
