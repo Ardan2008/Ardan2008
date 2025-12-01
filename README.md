@@ -51,13 +51,17 @@ height="45" width="45"/></h1></h1>
 ### 📊 My Stats
 
 <div align="center">
-  ![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Ardan2008&theme=radical&hide_border=false)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ardan2008&theme=radical&hide_border=false&cache_buster=12345" alt="GitHub Streak Stats"/>
   <br>
-
-  <div style="display: flex; justify-content: center;">
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false&cache_buster=12345" alt="GitHub Stats" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_buster=12345" alt="Top Languages" height="150"/>
   </div>
+</div>
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ardan2008.Ardan2008&left_color=darkslateblue&right_color=royalblue&left_text=visitors" alt="Visitors"/>
 </div>
 <!-- #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ardan2008&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
