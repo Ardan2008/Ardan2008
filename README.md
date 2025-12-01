@@ -51,12 +51,12 @@ height="45" width="45"/></h1></h1>
 ### 📊 My Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ardan2008&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ardan2008&theme=radical&hide_border=false&cache_buster=12345" alt="GitHub Streak Stats"/>
   <br>
   
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false&cache_buster=12345" alt="GitHub Stats" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_buster=12345" alt="Top Languages" height="150"/>
   </div>
 </div>
 
