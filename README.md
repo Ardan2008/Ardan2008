@@ -14,18 +14,20 @@ height="45" width="45"/></h1></h1>
 
 ### 👨‍💻 About Me
 
-<p align="center">
-  I am a Junior Web Developer and Web Designer student at <b>SMK Negeri 1 Purwosari</b>, passionate about developing modern, responsive, and user-centered web applications.
-  I focus on delivering scalable solutions through clean, efficient code and well-structured design principles.<br><br>
-  <div align="center">
-    <strong>
-      Committed to building impactful digital experiences 
-      with purpose, precision, and innovation.
-    </strong>
-    <br>
-    <span style="letter-spacing:3px;">━━━━━━━━━━ ✦ ━━━━━━━━━━</span>
-  </div>
-</p>
+<div align="center">
+  <p>
+    I am a Junior Web Developer and Web Designer student at 
+    <b>SMK Negeri 1 Purwosari</b>, passionate about developing modern, responsive, 
+    and user-centered web applications. I focus on delivering scalable solutions 
+    through clean, efficient code and well-structured design principles.
+  </p>
+
+  <strong>
+    Committed to building impactful digital experiences with purpose, precision, and innovation.
+  </strong>
+  <br>
+  <span style="letter-spacing:3px;">━━━━━━━━━━ ✦ ━━━━━━━━━━</span>
+</div>
 
 ##
 
