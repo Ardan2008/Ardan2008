@@ -15,16 +15,23 @@ height="45" width="45"/></h1></h1>
 ### 👨‍💻 About Me
 
 <p align="center">
-  I'm a Junior Web Developer student at <b>SMK Negeri 1 Purwosari</b> with a strong passion for creating modern, user-friendly web applications.
-  I enjoy transforming real-world problems into smart, scalable solutions with clean and efficient code.<br><br>
-  <strong>Together, let's build more than just code — let's build meaningful experiences.</strong> 💻🚀
+  I am a Junior Web Developer and Web Designer student at <b>SMK Negeri 1 Purwosari</b>, passionate about developing modern, responsive, and user-centered web applications.
+  I focus on delivering scalable solutions through clean, efficient code and well-structured design principles.<br><br>
+  <div align="center">
+    <strong>
+      Committed to building impactful digital experiences 
+      with purpose, precision, and innovation.
+    </strong>
+    <br>
+    <span style="letter-spacing:3px;">━━━━━━━━━━ ✦ ━━━━━━━━━━</span>
+  </div>
 </p>
 
 ##
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,php,mysql,laravel,react,tailwind,scss,mongodb" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,figma,mysql,laravel,nextjs,tailwind" alt="My Skills" />
   </a>
 </div>
 <!-- 
@@ -79,7 +86,7 @@ height="45" width="45"/></h1></h1>
 ---
 
 <div align="center">
-  <b>👨‍💻 Made with code & creativity — Ardan Ramadhan Putra Hidayat © 2025. All Essence Preserved.</b>
+  <b>👨‍💻 Made with code & creativity — Ardan Ramadhan Putra Hidayat © 2026. All Essence Preserved.</b>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=Ardan2008&icon=0&color=0)](https://visitcount.itsvg.in)
