@@ -16,10 +16,7 @@ height="45" width="45"/></h1></h1>
 
 <div align="center">
   <p>
-    I am a Web Developer and Web Designer student at 
-    <b>SMK Negeri 1 Purwosari</b>, passionate about developing modern, responsive, 
-    and user-centered web applications. I focus on delivering scalable solutions 
-    through clean, efficient code and well-structured design principles.
+    I am a Web Developer student at <b>SMK Negeri 1 Purwosari</b> with hands-on experience building responsive and user-centered web applications. Through internships and real-world projects, I have developed scalable web solutions using modern front-end and back-end technologies while following clean code principles and industry best practices. Passionate about continuous learning, I am eager to contribute, collaborate, and create digital products that deliver real value.
   </p>
 
   <strong>
