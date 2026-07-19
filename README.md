@@ -7,7 +7,7 @@ alt="Waving hand animated gif"
 height="45" width="45"/></h1></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Web%20Developer;SMK%20Negeri%201%20Purwosari%20Student;Building%20Modern%20Web%20Experiences;&font=Pacifico&center=true&width=700&height=60&color=58a6ff&vCenter=true&size=35" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;SMK%20Negeri%201%20Purwosari%20Student;Building%20Modern%20Web%20Experiences;&font=Pacifico&center=true&width=700&height=60&color=58a6ff&vCenter=true&size=35" />
 </p>
 
 ---
