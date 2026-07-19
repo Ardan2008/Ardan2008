@@ -33,7 +33,7 @@ height="45" width="45"/></h1></h1>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,figma,mysql,laravel,nextjs,tailwind" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,figma,mysql,laravel,reactjs,nextjs,tailwind" alt="My Skills" />
   </a>
 </div>
 <!-- 
