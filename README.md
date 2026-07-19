@@ -1,4 +1,6 @@
+<p align="center">
 ![Ardan Ramadhan](img/ban.png)
+</p>
 
 <h1 align="center">
 Hello! I'm Ardan Ramadhan Putra Hidayat 
