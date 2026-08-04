@@ -1,4 +1,4 @@
-![Ardan Ramadhan](img/banner.png)
+![Ardan Ramadhan](img/Header.png)
 
 <h1 align="center">
 Hello! I'm Ardan Ramadhan Putra Hidayat 
@@ -7,23 +7,25 @@ alt="Waving hand animated gif"
 height="45" width="45"/></h1></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Web%20Developer;SMK%20Negeri%201%20Purwosari%20Student;Building%20Modern%20Web%20Experiences;&font=Pacifico&center=true&width=700&height=60&color=58a6ff&vCenter=true&size=35" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full-Stack%20Developer;React.js%20%7C%20Next.js%20%7C%20Laravel;Creating%20Scalable%20Digital%20Solutions;&font=Pacifico&center=true&width=700&height=60&color=58a6ff&vCenter=true&size=35" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 <div align="center">
   <p>
-    I am a Junior Web Developer and Web Designer student at 
-    <b>SMK Negeri 1 Purwosari</b>, passionate about developing modern, responsive, 
-    and user-centered web applications. I focus on delivering scalable solutions 
-    through clean, efficient code and well-structured design principles.
+    I am a Software Engineer and Full-Stack Developer student at 
+    <b>SMK Negeri 1 Purwosari</b>, passionate about designing and developing 
+    modern web applications with scalable architecture and seamless user experiences.
+    I work with technologies such as Laravel, Next.js, React.js, Tailwind CSS, 
+    and REST API to build reliable digital solutions.
   </p>
 
   <strong>
-    Committed to building impactful digital experiences with purpose, precision, and innovation.
+    Transforming ideas into impactful software through clean code, continuous 
+    improvement, and innovative problem-solving.
   </strong>
   <br>
   <span style="letter-spacing:3px;">━━━━━━━━━━ ✦ ━━━━━━━━━━</span>
@@ -36,59 +38,42 @@ height="45" width="45"/></h1></h1>
     <img src="https://skillicons.dev/icons?i=html,css,js,typescript,figma,mysql,laravel,nextjs,tailwind" alt="My Skills" />
   </a>
 </div>
-<!-- 
-<div align="center">
-  <a href="https://www.instagram.com/xrdsn404?igsh=MWszbnR4eXk5dHF6NQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
-  </a>
-
-  <a href="https://www.facebook.com/share/18m5uES7Tc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ardan-ramadhan-5a12a537b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  
-  <a href="mailto:ramadhanardan69@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=EMAIL&logo=gmail&label=&color=E34133&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
-  </a>
-</div> -->
 
 ---
 
-### 📊 My Stats
+### My Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ardan2008&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
-  <br>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardan2008&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150"/>
-  </div>
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ardan2008&theme=radical&hide_border=false" 
+    alt="GitHub Streak Stats"
+  />
+  <img 
+    src="https://github-stats-extended.vercel.app/api?username=Ardan2008&show_icons=true&theme=radical&hide_border=false" 
+    height="150"
+    alt="GitHub Stats"
+  /><img 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ardan2008&layout=compact&theme=radical&hide_border=false" 
+    height="150"
+    alt="Top Languages"
+  />
+
 </div>
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ardan2008.Ardan2008&left_color=darkslateblue&right_color=royalblue&left_text=visitors" />
 </div>
 
-<!-- #### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ardan2008&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
-
-<!-- <div align="center">
-<h2>🔝 Top Contributed Repo</h2>
-<img src="https://github-contributor-stats.vercel.app/api?username=Ardan2008&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repo Stats">
-</div> -->
-
 ---
 
-### 🐍 Let's Play Game
+### Let's Play Game
 
 <img src="https://raw.githubusercontent.com/Ardan2008/Ardan2008/output/snake.svg" alt="Snake contribution animation" />
 
 ---
 
 <div align="center">
-  <b>👨‍💻 Made with code & creativity — Ardan Ramadhan Putra Hidayat © 2026. All Essence Preserved.</b>
+  <b>Made with code & creativity — Ardan Ramadhan Putra Hidayat © 2026. All Essence Preserved.</b>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=Ardan2008&icon=0&color=0)](https://visitcount.itsvg.in)
