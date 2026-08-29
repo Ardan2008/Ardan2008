@@ -7,28 +7,38 @@ alt="Waving hand animated gif"
 height="45" width="45"/></h1></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full-Stack%20Developer;React.js%20%7C%20Next.js%20%7C%20Laravel;Creating%20Scalable%20Digital%20Solutions;&font=Pacifico&center=true&width=700&height=60&color=58a6ff&vCenter=true&size=35" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Software%20Developer;Data%20Entry%20Specialist;React.js%20%7C%20Next.js%20%7C%20Vue.js%20%7C%20Laravel;Creating%20Scalable%20Digital%20Solutions;&font=Pacifico&center=true&width=700&height=60&color=58a6ff&vCenter=true&size=35" />
 </p>
 
 ---
 
 ### About Me
 
+### About Me
+
 <div align="center">
+
   <p>
-    I am a Software Engineer and Full-Stack Developer student at 
-    <b>SMK Negeri 1 Purwosari</b>, passionate about designing and developing 
-    modern web applications with scalable architecture and seamless user experiences.
-    I work with technologies such as Laravel, Next.js, React.js, Tailwind CSS, 
-    and REST API to build reliable digital solutions.
+    I am a Full-Stack Web Developer and Software Developer student at
+    <b>SMK Negeri 1 Purwosari</b>, passionate about building modern,
+    responsive, and scalable web applications.
+    <br>
+    I work with technologies such as Laravel, Next.js, React.js,
+    Vue.js, Tailwind CSS, and REST API to develop reliable digital solutions.
+    <br>
+    I also have an interest in Data Entry, with a strong focus on
+    accuracy, data organization, and attention to detail.
   </p>
 
   <strong>
-    Transforming ideas into impactful software through clean code, continuous 
-    improvement, and innovative problem-solving.
+    Turning ideas into practical digital solutions through clean code,
+    continuous learning, accuracy, and problem-solving.
   </strong>
+
   <br>
+
   <span style="letter-spacing:3px;">━━━━━━━━━━ ✦ ━━━━━━━━━━</span>
+
 </div>
 
 ##
