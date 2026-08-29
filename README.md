@@ -14,8 +14,6 @@ height="45" width="45"/></h1></h1>
 
 ### About Me
 
-### About Me
-
 <div align="center">
 
   <p>
