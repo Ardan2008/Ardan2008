@@ -17,24 +17,26 @@ height="45" width="45"/></h1></h1>
 <div align="center">
 
   <p>
-    I am a Full-Stack Web Developer and Software Developer student at
+    I am a Full-Stack Web Developer and Software Engineering student at
     <b>SMK Negeri 1 Purwosari</b>, passionate about building modern,
-    responsive, and scalable web applications.
+    responsive, and scalable websites and web applications.
     <br>
     I work with technologies such as Laravel, Next.js, React.js,
-    Vue.js, Tailwind CSS, and REST API to develop reliable digital solutions.
+    Vue.js, Tailwind CSS, and REST APIs to build reliable and
+    user-focused web solutions.
   </p>
 
   <strong>
-    Turning ideas into practical digital solutions through clean code,
+    Turning ideas into practical web solutions through clean code,
     continuous learning, and problem-solving.
   </strong>
 
   <br>
 
-  <span style="letter-spacing:3px;">━━━━━━━━━━ ✦ ━━━━━━━━━━</span>
+<span style="letter-spacing:3px;">━━━━━━━━━━ ✦ ━━━━━━━━━━</span>
 
 </div>
+
 
 ##
 
